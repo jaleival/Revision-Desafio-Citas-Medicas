@@ -8,5 +8,5 @@ app.use('/', routes);
 
 
 app.listen(PORT, () => {
-    console.log(`Server activo en el puerto localhost:${PORT}`);
+    console.log(`Server activo en el puerto http://localhost:${PORT}`);
 })
